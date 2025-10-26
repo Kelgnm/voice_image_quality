@@ -7,7 +7,7 @@
 - Dynamically updates the image reconstruction based on audio volume.
 - Uses `matplotlib` for real-time visualization.
 
-[![Hatemonger](https://github.com/Kelgnm/voice_image_quality/blob/main/test_1.mp4)
+https://github.com/user-attachments/assets/3c6921af-b124-4c47-91ee-c968b4901f8c
 
 ## Requirements
 
