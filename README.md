@@ -7,6 +7,9 @@
 - Dynamically updates the image reconstruction based on audio volume.
 - Uses `matplotlib` for real-time visualization.
 
+[![Showcase]
+(https://github.com/Kelgnm/voice_image_quality/blob/main/daaaa_1.mp4)
+
 ## Requirements
 
 - Python 3.12.10
