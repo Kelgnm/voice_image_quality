@@ -7,6 +7,8 @@
 - Dynamically updates the image reconstruction based on audio volume.
 - Uses `matplotlib` for real-time visualization.
 
+The image that i used for this project is called hate.png (from the series Space King), but you can change it in the code
+
 https://github.com/user-attachments/assets/3c6921af-b124-4c47-91ee-c968b4901f8c
 
 ## Requirements
@@ -30,7 +32,6 @@ python3 vectors.py
 ```
 - `Opens a window displaying the reconstructed image`
 - `Speak into the microphone to increase the number of N value, making the image more detailed`
-- `The image that i used for this project is called hate.png (from the series Space King), but you can change it in the code`
 
 ## Configuration
 
